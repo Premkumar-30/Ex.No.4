@@ -1,50 +1,133 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+Ex.No.4 - Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+DATE: 03.09.25
+REGISTER NUMBER : 212222040045
+Aim:
+To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, including Comparative Analysis Prompt, Experiential Perspective Prompt, Everyday Functioning Prompts, Universal Prompt Structures, Prompt Refinements, and Prompt Size Limitations.
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+Explanation – Case Study: E-Commerce Customer Support with AI Chatbots
+🛒 Scenario & Use Case
+The e-commerce sector faces high volumes of customer inquiries about orders, returns, refunds, and product troubleshooting. Traditional customer service teams often struggle with response delays and inconsistent answers. AI-powered chatbots can provide instant, reliable, and personalized support.
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+Domain: E-Commerce Customer Support
+Focus: Order tracking, product troubleshooting, returns/refunds
+Target Audience: Online shoppers
 
-Main Objectives:
+🎯 Main Objectives
+⚡ Provide instant support for routine queries
+📦 Improve order tracking transparency
+🔄 Simplify returns and refund requests
+😊 Enhance customer satisfaction with conversational responses
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+📊 Comparative Analysis Prompt
+Prompt:
+"Compare human customer service agents vs AI chatbots for handling order tracking queries."
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+Response (AI Tool 1 - GPT-5):
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+Human Agents: Personalized but slower, prone to delays during peak hours.
+AI Chatbots: Instant replies, consistent tone, scalable to large query volumes.
+Response (AI Tool 2 - Claude):
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+Human Agents: Provide empathy and adapt to complex cases, but limited scalability.
+AI Chatbots: 24/7 availability, cost-effective, handle repetitive tasks better.
+Evaluation:
+Both tools highlighted speed, scalability, and consistency as chatbot strengths. Human agents excel in empathy and complex problem solving.
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+🧑‍🤝‍🧑 Experiential Perspective Prompt
+Prompt:
+"Imagine you are a frustrated customer whose order is delayed. How should the chatbot respond to make you feel reassured?"
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+Response (GPT-5):
+"I see your order hasn’t arrived yet, and I completely understand how frustrating that is. Let me check the details right away and provide you with the exact delivery update."
 
+Response (Claude):
+"I understand your concern. Your order is delayed due to logistics. The new expected delivery is [date]. We’re sorry for the inconvenience and appreciate your patience."
 
+Evaluation:
+GPT-5 leaned towards empathetic, conversational reassurance, while Claude was more concise and factual. Both styles can be combined for maximum impact.
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+🏠 Everyday Functioning Prompts
+Prompt:
+"What common daily customer issues should the chatbot be able to resolve automatically?"
+
+Response (GPT-5):
+
+Order status inquiries
+Return and refund requests
+Password reset help
+Product availability checks
+Response (Claude):
+
+Track shipment progress
+Handle cancellations
+Provide troubleshooting for basic product issues
+Guide users to FAQs
+Evaluation:
+The overlap (order tracking, refunds, troubleshooting) confirms these are critical daily functions. GPT-5 highlighted account support, while Claude emphasized cancellations.
+
+🌐 Universal Prompt Structures
+Prompt:
+"Suggest universal response structures that any customer support chatbot should follow, regardless of domain."
+
+Response (GPT-5):
+
+Acknowledge the query
+Provide the solution or next step
+Offer reassurance or follow-up help
+Response (Claude):
+
+Greeting
+Restating the problem for clarity
+Step-by-step solution
+Offer escalation if unresolved
+Evaluation:
+GPT-5 suggested a simple 3-step model, while Claude provided a more structured 4-step model. Both ensure clarity and user trust.
+
+🛠 Prompt Refinements
+Initial Prompt:
+"How can a chatbot help customers?"
+
+Refined Prompt:
+"List three specific ways an AI chatbot can improve customer satisfaction in e-commerce order management."
+
+Response (GPT-5):
+
+Provide instant order status updates
+Offer proactive delay notifications
+Automate refund requests
+Response (Claude):
+
+24/7 order tracking support
+Personalized delay explanations
+Quick initiation of return process
+Evaluation:
+Refined prompts produced focused, actionable responses compared to vague outputs from the initial prompt.
+
+📏 Prompt Size Limitations
+Prompt (≤20 words):
+"Suggest 3 chatbot features that improve e-commerce support efficiency."
+
+Response (GPT-5):
+
+Instant order tracking
+Automated refunds
+Proactive delay alerts
+Response (Claude):
+
+Real-time shipment tracking
+Quick return initiation
+24/7 customer support availability
+Evaluation:
+Both models produced concise, high-impact results. Size limits enforced clarity, ensuring only the most critical features were listed.
+
+✅ Expected Outcomes
+📦 Faster query resolution (under 10 seconds per query)
+😊 Higher customer satisfaction through empathetic responses
+🔄 Reduced workload for human agents by 40–50%
+⚡ 24/7 scalable customer support
+
+🔚 Conclusion
+This experiment demonstrates how diverse prompt engineering techniques—Comparative Analysis, Experiential Perspective, Everyday Functioning, Universal Structures, Prompt Refinement, and Size Limitations—shape chatbot effectiveness in e-commerce support. By testing across two AI tools (GPT-5 and Claude), we observed overlapping strengths and stylistic differences. The combination of empathetic reassurance (GPT-5) and structured factual clarity (Claude) delivers the best outcomes for real-world customer service.
+
+Result:
+Thus the Prompts were executed successfully.
